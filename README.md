@@ -1,0 +1,2 @@
+Kristján Hagalín
+Andri Már
