@@ -1,2 +1,2 @@
-Kristján Hagalín
-Andri Már
+# Kristján Hagalín
+# Andri Már
