@@ -1,0 +1,1 @@
+print(g := int(input()) + 2)
